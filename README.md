@@ -2,7 +2,7 @@
 🚀 AI & Machine Learning Enthusiast | Python Developer  
 💡 Skilled in NLP, Computer Vision & Quantitative Finance  
 📊 Passionate about AI Engineering, Data Science & Tech Innovations  
-🔗 Portfolio: [Your Portfolio Link] | LinkedIn: [Your LinkedIn Link]  
+
 
 
 <!---
